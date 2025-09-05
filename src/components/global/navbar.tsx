@@ -4,7 +4,7 @@ type Props = {}
 
 const Navbar = async(props: Props) => {
   return (
-    <div>navbar</div>
+    <div>Asim</div>
   )
 }
 
